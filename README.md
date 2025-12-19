@@ -1,6 +1,6 @@
-# Innomatics Internship — Programming Task 1
+# Innomatics Internship — Programming Tasks
 
-This repository contains my solutions for **Programming Task – 1 (Basic Python Programming)** assigned by **Innomatics Research Labs** as part of the Data Science Internship Program.
+This repository contains my solutions for **Programming Tasks (Basic Python Programming)** assigned by **Innomatics Research Labs** as part of the Data Science Internship Program.
 
 ---
 
@@ -13,15 +13,7 @@ This repository contains my solutions for **Programming Task – 1 (Basic Python
 
 ---
 
-## ✔ HackerRank Python Exercises (7 Tasks Completed)
-The following Python problems were solved:
-1. Weird or Not Weird  
-2. Arithmetic Operators  
-3. Python Division  
-4. Loops (print squares)  
-5. Print Function  
-6. Leap Year  
-7. Basic Conditionals & Calculations  
+  
 
 All solutions are included inside the Jupyter Notebook.
 
